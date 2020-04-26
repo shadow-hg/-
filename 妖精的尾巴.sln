@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "妖精的尾巴", "..\HBuil
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "4738"
+		SlnRelativePath = "..\HBuilderX\妖精的尾巴\妖精的尾巴\"
 	EndProjectSection
 EndProject
 Global
